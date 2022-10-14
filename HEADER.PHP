@@ -21,17 +21,17 @@
     <div class="collapse navbar-collapse" id="navbarScroll">
       <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll" style="--bs-scroll-height: 100px;">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="inicio.php">INICIO</a>
+          <a class="nav-link active" aria-current="page" href="/admin/inicio.php">INICIO</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="admin/index.php">PRODUCTO</a>
+          <a class="nav-link active" aria-current="page" href="/admin/index.php">PRODUCTO</a>
         </li>        
                  
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="CLIENTE/cliente.php">CLIENTE</a>
+          <a class="nav-link active" aria-current="page" href="/CLIENTE/cliente.php">CLIENTE</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="oferta/editarofe.php">OFERTAV</a>
+          <a class="nav-link active" aria-current="page" href="/oferta/editarofe.php">OFERTAV</a>
         </li>
         
         <li class="nav-item dropdown">
