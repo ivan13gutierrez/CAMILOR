@@ -39,11 +39,11 @@
             ROL DE USUARIO
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
-            <li><a class="dropdown-item" href="/CRUDINNERJOIN/usuarios/usuarios.php">USUARIOS</a></li>
-            <li><a class="dropdown-item" href="/CRUDINNERJOIN/roles/roles.php">ROLES</a></li>
+            <li><a class="dropdown-item" href="/usuarios/usuarios.php">USUARIOS</a></li>
+            <li><a class="dropdown-item" href="/roles/roles.php">ROLES</a></li>
 
             <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="/CRUDINNERJOIN/RelacionTablas/relacion.php">ROLES DE USUARIO</a></li>
+            <li><a class="dropdown-item" href="/RelacionTablas/relacion.php">ROLES DE USUARIO</a></li>
           </ul>
         </li>
        
